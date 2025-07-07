@@ -23,7 +23,7 @@
  /* Header Modern dengan Nuansa Jawa */
  header {
      background: linear-gradient(rgba(83, 55, 8, 0.7), rgba(102, 60, 12, 0.7)),
-         url('../Web_Sanggar/image/header.JPG');
+         url('image/header.JPG');
      background-size: cover;
      background-position: center;
      padding: 4rem 1rem;
